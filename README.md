@@ -1,4 +1,4 @@
-# In-memory storage for users
+
 users = {}
 
 def register():
